@@ -841,12 +841,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/nemiah/phpFinTS.git",
-                "reference": "51b5975251e576f529d1b971a207cab829fe35c4"
+                "reference": "fec22a64e693b16717d34856cfc9a728845808f5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/nemiah/phpFinTS/zipball/51b5975251e576f529d1b971a207cab829fe35c4",
-                "reference": "51b5975251e576f529d1b971a207cab829fe35c4",
+                "url": "https://api.github.com/repos/nemiah/phpFinTS/zipball/fec22a64e693b16717d34856cfc9a728845808f5",
+                "reference": "fec22a64e693b16717d34856cfc9a728845808f5",
                 "shasum": ""
             },
             "require": {
